@@ -15,9 +15,8 @@ export default function Home(): JSX.Element {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing{" "}
-          <code className={styles.code}>pages/index.js</code>
+        <p className="p-6 mt-5 bg-gray-100 rounded-lg">
+          Testing Tailwind CSS classes here!
         </p>
 
         <div className={styles.grid}>
